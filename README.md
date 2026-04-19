@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://f.playcode.io/p-2708596/v-1/019da705-681c-747c-a116-39e33dc216d0/copilot_20260419_142217.png" width="200" alt="Project Logo"> </p>
+# <h1 align="center"> <img src="https://f.playcode.io/p-2708596/v-1/019da705-681c-747c-a116-39e33dc216d0/copilot_20260419_142217.png" width="200" alt="Project Logo"> </h1>
 
 
 **Compile Dart to a standalone EXE — fast, simple, and native.**
