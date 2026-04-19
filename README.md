@@ -14,7 +14,6 @@ It’s designed for developers who want to ship Dart apps without requiring the 
 - **Icon embedding** — add `.ico` files directly to your binary  
 - **Cross‑compilation** — build for Linux from Windows (experimental)  
 - **Fast builds** — minimal overhead, instant startup  
-- **Self‑hosting** — OneDart can compile itself  
 
 ---
 
