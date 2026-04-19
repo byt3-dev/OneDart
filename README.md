@@ -21,5 +21,5 @@ It’s designed for developers who want to ship Dart apps without requiring the 
 ## ⚙️ Usage
 
 ```bash
-onedart <input.dart> [options]
+onedart input.dart -o output.exe -i path/to/your/icon.ico
 ```
