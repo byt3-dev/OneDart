@@ -1,4 +1,7 @@
-# 🧭 OneDart
+# <p align="center">
+  <img src="path/to/your-logo.png" width="200" alt="Project Logo">
+</p>
+
 
 **Compile Dart to a standalone EXE — fast, simple, and native.**
 
@@ -9,6 +12,7 @@ It’s designed for developers who want to ship Dart apps without requiring the 
 
 ## 🚀 Features
 
+- **Standalone EXE output** — no runtime dependencies  
 - **Icon embedding** — add `.ico` files directly to your binary  
 - **Cross‑compilation** — build for Linux from Windows (experimental)  
 - **Fast builds** — minimal overhead, instant startup  
@@ -19,4 +23,5 @@ It’s designed for developers who want to ship Dart apps without requiring the 
 ## ⚙️ Usage
 
 ```bash
-onedart your_dart_file.dart -o your_dart_file.exe -i path_to_icon
+onedart <input.dart> [options]
+```
